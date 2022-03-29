@@ -2,7 +2,7 @@
   "name": "goit-react-hw-06-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Katia-Radchenko.github.io/goit-react-hw-06-phonebook/",
+  "homepage": "https://Katia-Radchenko.github.io/goit-react-hw-06-phonebook",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
@@ -15,6 +15,7 @@
     "react-dom": "^17.0.2",
     "react-native-linear-gradient": "^2.5.6",
     "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.2",
     "react-scripts": "5.0.0",
     "redux-logger": "^3.0.6",
     "redux-persist": "^6.0.0",
