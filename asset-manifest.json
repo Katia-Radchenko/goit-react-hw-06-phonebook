@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/.github.io/goit-react-hw-06-phonebook/static/css/main.ebb456ef.css",
-    "main.js": "/.github.io/goit-react-hw-06-phonebook/static/js/main.a4ae34e1.js",
-    "static/media/img.jpeg": "/.github.io/goit-react-hw-06-phonebook/static/media/img.07177a455758324acd31.jpeg",
-    "index.html": "/.github.io/goit-react-hw-06-phonebook/index.html",
-    "main.ebb456ef.css.map": "/.github.io/goit-react-hw-06-phonebook/static/css/main.ebb456ef.css.map",
-    "main.a4ae34e1.js.map": "/.github.io/goit-react-hw-06-phonebook/static/js/main.a4ae34e1.js.map"
+    "main.css": "/goit-react-hw-06-phonebook/static/css/main.5068d78b.css",
+    "main.js": "/goit-react-hw-06-phonebook/static/js/main.a4ae34e1.js",
+    "static/media/img.jpeg": "/goit-react-hw-06-phonebook/static/media/img.07177a455758324acd31.jpeg",
+    "index.html": "/goit-react-hw-06-phonebook/index.html",
+    "main.5068d78b.css.map": "/goit-react-hw-06-phonebook/static/css/main.5068d78b.css.map",
+    "main.a4ae34e1.js.map": "/goit-react-hw-06-phonebook/static/js/main.a4ae34e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebb456ef.css",
+    "static/css/main.5068d78b.css",
     "static/js/main.a4ae34e1.js"
   ]
 }
